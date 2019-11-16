@@ -1,1 +1,3 @@
 data/*
+augmentations/__pycache__*
+__pycache__*
